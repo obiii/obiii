@@ -1,5 +1,4 @@
-[![Header](https://raw.githubusercontent.com/obiii/obiii/readme_header.png "Header")](https://ibb.co/j8KnpcG)
-
+[![Header](https://raw.githubusercontent.com/obiii/<OWNER>/<OWNER>/readme_header.png "Header")](https://ibb.co/j8KnpcG)
 
 ### Hi there 👋
 
