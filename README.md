@@ -1,9 +1,8 @@
-![](https://ibb.co/4m3RHR4)
+![](https://i.imgur.com/jvp8AWw.png)
 
 ### Hi there 👋
-
-<!--
-**obiii/obiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+I am Obaid from Pakistan, currently living in Sweden working as 5G Software Enginner at Ericsson. I am passionate about machine learning, deep learning and computer vision. 
 
 Here are some ideas to get you started:
 
@@ -16,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
