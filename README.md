@@ -1,4 +1,5 @@
-![header image](https://ibb.co/4m3RHR4)
+![](https://github.com/obiii/obiii/blob/main/icon/profile_banner.png)
+
 ### Hi there 👋
 
 <!--
