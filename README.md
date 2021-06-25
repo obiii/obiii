@@ -1,5 +1,5 @@
-[![Header](https://raw.githubusercontent.com/obiii/<OWNER>/<OWNER>/readme_header.png "Header")](https://ibb.co/j8KnpcG)
-
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://ibb.co/4m3RHR4)
 ### Hi there 👋
 
 <!--
