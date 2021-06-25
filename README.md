@@ -14,7 +14,7 @@ Here are few stats from my github profile:
 
 
 <a href="https://github.com/obiii/Multi-task-CNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiii&repo=Multi-task-CNN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiii&repo=Multi-task-CNN&?theme=radical" />
 </a>
 <a href="https://github.com/obiii/FlameCharacterizer_MTL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiii&repo=FlameCharacterizer_MTL" />
