@@ -16,7 +16,7 @@ somehting here
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=obiii&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obiii&layout=compact&hide=javascript,html,CSs,CoffeeScript,Roff,XSLT,PHP,Batchfile,Shell,AMPL,M,Hack&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obiii&layout=compact&hide=javascript,html,CSs,CoffeeScript,Roff,XSLT,PHP,Batchfile,Shell,AMPL,M,Hack&langs_count=6&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/obiii/Multi-task-CNN">
