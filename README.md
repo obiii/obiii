@@ -20,14 +20,14 @@ somehting here
 </a>
 
 <a href="https://github.com/obiii/Multi-task-CNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiii&repo=Multi-task-CNN&?theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiii&repo=Multi-task-CNN&theme=tokyonight" />
 </a>
 <a href="https://github.com/obiii/FlameCharacterizer_MTL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiii&repo=FlameCharacterizer_MTL" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiii&repo=FlameCharacterizer_MTL&theme=tokyonight" />
 </a>
 <a href="https://github.com/obiii/Transfer_Convolutional-Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiii&repo=Transfer_Convolutional-Learning" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiii&repo=Transfer_Convolutional-Learning&theme=tokyonight" />
 </a>
 <a href="https://github.com/obiii/UNetRoadSegmentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiii&repo=UNetRoadSegmentation" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiii&repo=UNetRoadSegmentation&theme=tokyonight" />
 </a>
