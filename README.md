@@ -10,15 +10,6 @@ Here are few stats from my github profile:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obiii&layout=compact&hide=javascript,html,CSs,CoffeeScript,Roff,XSLT,PHP,Batchfile,Shell,AMPL,M,Hack&langs_count=6)](https://github.com/obiii/FlameCharacterizer_MTL)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
