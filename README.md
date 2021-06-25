@@ -1,4 +1,4 @@
-![](https://github.com/obiii/obiii/blob/main/icon/profile_banner.png)
+![](https://ibb.co/4m3RHR4)
 
 ### Hi there 👋
 
