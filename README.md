@@ -6,6 +6,12 @@
 I am Obaid from Pakistan, currently living in Sweden working as 5G Software Enginner at Ericsson. I am passionate about machine learning, deep learning and computer vision. 
 
 Here are few stats from my github profile:
+<a href="https://github.com/obiii/Multi-task-CNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiii&repo=Multi-task-CNN" />
+</a>
+<a href="https://github.com/obiii/Transfer_Convolutional-Learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiii&repo=Transfer_Convolutional-Learning" />
+</a>
 
 ![Obaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=obiii&show_icons=true&theme=tokyonight&count_private=true)
 
