@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 ---
-I am Obaid from Pakistan, currently living in Sweden working as 5G Software Enginner at Ericsson. I am passionate about machine learning, deep learning and computer vision. 
+I am Obaid from Pakistan, currently living in Sweden working as 5G Software Engineer at Ericsson. I am passionate about machine learning, deep learning and computer vision. 
 
 Here are some ideas to get you started:
 
