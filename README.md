@@ -3,7 +3,7 @@
 ### Hi there, I am Obaid 👋
 
 ---
-I am Obaid from Pakistan, currently living in Sweden working as 5G Software Enginner at Ericsson. I am passionate about machine learning, deep learning and computer vision. 
+I am currently living in Sweden working as 5G Software Enginner at Ericsson. I am passionate about machine learning, deep learning and computer vision. 
 
 - 🔭 I’m currently working on 5G 
 - 🌱 I’m currently learning Computer Vision
@@ -12,7 +12,7 @@ I am Obaid from Pakistan, currently living in Sweden working as 5G Software Engi
 - ![Python](https://i.imgur.com/PIhnjoQ.png) Python
 - ![Keras](https://i.imgur.com/hxTQ9xG.png) Keras
 - ![Tensorflow](https://i.imgur.com/NXsJHWO.png) Tensorflow
-- ![Tensorflow Extended](https://i.imgur.com/cgnFsuJ.png) Tensorflow Extended
+- ![Tensorflow Extended](https://i.imgur.com/bolLE3r.png) Tensorflow Extended
 - ![Tensorflow Extended](https://i.imgur.com/xQn7Lod.png) AWS Sagemaker
 
 
