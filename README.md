@@ -1,4 +1,4 @@
-![](https://i.imgur.com/jvp8AWw.png)
+![](https://i.imgur.com/hmZXP5Q.png)
 
 ### Hi there 👋
 ---
