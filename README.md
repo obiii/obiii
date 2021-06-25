@@ -10,11 +10,6 @@ I am Obaid from Pakistan, currently living in Sweden working as 5G Software Engi
 
 ##### Language & Tools:
 
-
-![Obaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=obiii&show_icons=true&theme=tokyonight&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obiii&layout=compact&hide=javascript,html,CSs,CoffeeScript,Roff,XSLT,PHP,Batchfile,Shell,AMPL,M,Hack&langs_count=6)]()
-
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obiii&layout=compact&hide=javascript,html,CSs,CoffeeScript,Roff,XSLT,PHP,Batchfile,Shell,AMPL,M,Hack&langs_count=6" />
 </a>
