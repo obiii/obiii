@@ -12,7 +12,7 @@ I am currently living in Sweden working as 5G Software Enginner at Ericsson. I a
 - ![Python](https://i.imgur.com/PIhnjoQ.png) Python
 - ![Keras](https://i.imgur.com/hxTQ9xG.png) Keras
 - ![Tensorflow](https://i.imgur.com/NXsJHWO.png) Tensorflow
-- ![Tensorflow Extended](https://i.imgur.com/bolLE3r.png) Tensorflow Extended
+- ![Tensorflow Extended](https://i.imgur.com/6QjHxBG.png) Tensorflow Extended
 - ![Tensorflow Extended](https://i.imgur.com/xQn7Lod.png) AWS Sagemaker
 
 
