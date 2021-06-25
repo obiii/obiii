@@ -9,7 +9,11 @@ I am Obaid from Pakistan, currently living in Sweden working as 5G Software Engi
 - 🌱 I’m currently learning Computer Vision
 
 ##### Language & Tools:
-somehting here
+- ![Python](https://i.imgur.com/PIhnjoQ.png) Python
+- ![Keras](https://i.imgur.com/hxTQ9xG.png) Keras
+- ![Tensorflow](https://i.imgur.com/NXsJHWO.png) Tensorflow
+- ![Tensorflow Extended](https://i.imgur.com/cgnFsuJ.png) Tensorflow Extended
+- ![Tensorflow Extended](https://i.imgur.com/xQn7Lod.png) AWS Sagemaker
 
 
 <a href="L">
