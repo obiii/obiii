@@ -6,6 +6,7 @@
 I am Obaid from Pakistan, currently living in Sweden working as 5G Software Enginner at Ericsson. I am passionate about machine learning, deep learning and computer vision. 
 
 Here are few stats from my github profile:
+
 ![Obaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=obiii&show_icons=true&theme=tokyonight&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obiii&layout=compact&hide=javascript,html,CSs,CoffeeScript,Roff,XSLT,PHP,Batchfile,Shell,AMPL,M,Hack&langs_count=6)](https://github.com/obiii/FlameCharacterizer_MTL)
