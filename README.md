@@ -29,5 +29,5 @@ somehting here
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiii&repo=Transfer_Convolutional-Learning&theme=tokyonight" />
 </a>
 <a href="https://github.com/obiii/UNetRoadSegmentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiii&repo=UNetRoadSegmentation&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obiii&repo=UNetRoadSegmentation&theme=radical" />
 </a>
