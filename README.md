@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/obiii/obiii/readme_header.png "Header")](https://ibb.co/4m3RHR4)
+![header image](https://ibb.co/4m3RHR4)
 ### Hi there 👋
 
 <!--
