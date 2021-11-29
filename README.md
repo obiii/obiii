@@ -3,7 +3,7 @@
 ### Hi there, I am Obaid 👋
 
 ---
-I am currently living in Sweden working as 5G Software Enginner at Ericsson. I am passionate about machine learning, deep learning and computer vision. 
+I am currently working as a Machine Learning Engineer at B2Holding, Sweden. I am passionate about machine learning, deep learning and computer vision. 
 
 - 🔭 I’m currently working on 5G 
 - 🌱 I’m currently learning Computer Vision
