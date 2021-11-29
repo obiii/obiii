@@ -5,8 +5,8 @@
 ---
 I am currently working as a Machine Learning Engineer at B2Holding, Sweden. I am passionate about machine learning, deep learning and computer vision. 
 
-- 🔭 I’m currently working on 5G 
-- 🌱 I’m currently learning Computer Vision
+- 🔭 I’m currently working on Finance & AI
+- 🌱 I’m currently learning MLOps
 
 ##### Language & Tools:
 - ![Python](https://i.imgur.com/PIhnjoQ.png) Python
